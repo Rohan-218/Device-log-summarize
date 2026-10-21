@@ -1,0 +1,19 @@
+# Python environments and bytecode
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Test and coverage artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Generated telemetry summaries and charts
+/output/
+
+# Local environment and editor files
+.env
+.env.*
+.vscode/
+.idea/
